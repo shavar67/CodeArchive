@@ -13,8 +13,6 @@ public class LinearSearchTest {
     public void Test() {
         Assert.assertTrue(linearSearch.linearSearch(arrayToTest, 10));
         System.out.println("The length of the array: " + arrayToTest.length );
-        String firstName = "shavar";
-        String lastName = "litchmore";
         System.out.println(firstName + lastName);
     }
 
