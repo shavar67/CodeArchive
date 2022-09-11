@@ -1,9 +1,0 @@
-i = 4
-j = 4, is 4 > 0? yes -> print(4)
-decrement by 1
-j = 3, is 3 > 0? yes -> print(3)
-decrement by 1 
-j = 2, is 2 > 0? yes print(2) 
-decrement by 1\nj = 1, is 1 > 0? yes print(1) 
-decrement by 1
-j = 0, condition is now false 0 > 0 ? exit innerLoop 
